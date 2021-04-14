@@ -38,5 +38,4 @@ public class RainbowTask {
                 throw new IllegalStateException("Unexpected value: " + colorValue);
         }
     }
-
 }

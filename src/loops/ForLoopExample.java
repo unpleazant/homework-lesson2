@@ -11,5 +11,4 @@ public class ForLoopExample {
             if (i % 2 != 0) System.out.print(i + ", ");
         }
     }
-
 }

@@ -1,7 +1,6 @@
 package controlstmnts;
 
 import java.util.Scanner;
-
 /**
  *   4. Для введенного числа t (температура на улице) вывести
  *   Если t>–5, то вывести «Тепло».
